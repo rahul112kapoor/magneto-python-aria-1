@@ -8,8 +8,8 @@
       "aria",
       "python"
     ],
-    "repository": "https://github.com/AbirHasan2005/magneto-python-aria.git",
-    "website": "https://github.com/AbirHasan2005/magneto-python-aria/tree/master",
+    "repository": "https://github.com/sanakek/magneto-python-aria.git",
+    "website": "https://github.com/sanakek/magneto-python-aria/tree/master",
     "success_url": "https://github.com/lzzy12/python-aria-mirror-bot/blob/master/README.md",
     "stack": "container",
     "env": {
