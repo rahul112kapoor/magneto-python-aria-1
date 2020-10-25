@@ -87,7 +87,7 @@ You can also change the commands. For help ask in [Telegram Group](https://t.me/
 
 # How to deploy?
 
-- Deploying on Heroku is too much easy !!
+https://dashboard.heroku.com/new?template=https://github.com/AbirHasan2005/magneto-python-aria/tree/main
 
 [![Deploy](https://www.herokucdn.com/dep
 
