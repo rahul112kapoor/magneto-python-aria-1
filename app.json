@@ -9,8 +9,8 @@
       "python"
     ],
     "repository": "https://github.com/AbirHasan2005/magneto-python-aria.git",
-    "website": "https://github.com/AbirHasan2005/magneto-python-aria/tree/master",
-    "success_url": "https://github.com/AbirHasan2005/magneto-python-aria/blob/master/README.md",
+    "website": "https://github.com/AbirHasan2005/magneto-python-aria/tree/main",
+    "success_url": "https://github.com/AbirHasan2005/magneto-python-aria/blob/main/README.md",
     "stack": "container",
     "env": {
       "ENV": {
