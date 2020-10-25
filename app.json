@@ -10,7 +10,7 @@
     ],
     "repository": "https://github.com/AbirHasan2005/magneto-python-aria.git",
     "website": "https://github.com/AbirHasan2005/magneto-python-aria/tree/master",
-    "success_url": "https://github.com/lzzy12/python-aria-mirror-bot/blob/master/README.md",
+    "success_url": "https://github.com/AbirHasan2005/magneto-python-aria/blob/master/README.md",
     "stack": "container",
     "env": {
       "ENV": {
