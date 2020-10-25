@@ -8,9 +8,9 @@
       "aria",
       "python"
     ],
-    "repository": "https://github.com/usmanmughalji/for-work.git",
-    "website": "https://github.com/usmanmughalji/for-work/tree/master",
-    "success_url": "https://github.com/usmanmughalji/for-work/blob/master/README.md",
+    "repository": "https://github.com/AbirHasan2005/magneto-python-aria.git",
+    "website": "https://github.com/AbirHasan2005/magneto-python-aria/tree/master",
+    "success_url": "https://github.com/AbirHasan2005/magneto-python-aria/blob/master/README.md",
     "stack": "container",
     "env": {
       "ENV": {
@@ -29,7 +29,7 @@
       },
       "DOWNLOAD_DIR": {
         "description": "The path to the local folder where the downloads should be downloaded to.",
-        "value": "/home/username/mirror-bot/downloads",
+        "value": "/app/downloads",
         "required": false
       },
       "DOWNLOAD_STATUS_UPDATE_INTERVAL": {
