@@ -56,8 +56,10 @@ This project is heavily inspired from @out386's telegram bot which is written in
 	- New code working well.
 
 - Improvements in Dockerfile.
-    - Before Deploy edit Dockerfile. To know what you have to edit ask in Telegram Group: [Linux Repositories](https://t.me/linux_repo)
+        - Before Deploy edit Dockerfile. To know what you have to edit ask in Telegram Group: [Linux Repositories](https://t.me/linux_repo)
 
+- You have to change Deploy Button link with your forked Repo Link.
+        - For help Ask in Telegram Group: [Linux Repositories](http://t.me/linux_repo)
 
 ## About Mega.nz links Mirroring:
 As you know mega.nz links mirroring is on Development Stage. So there are a lot of bugs. Bot can crash and Restart it self automatically. Do mega.nz Mirroring at your own risk.
@@ -87,7 +89,7 @@ You can also change the commands. For help ask in [Telegram Group](https://t.me/
 
 # How to deploy?
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/AbirHasan2005/magneto-python-aria/tree/main)
 
 - Configs [Here](https://github.com/AbirHasan2005/magneto-python-aria/tree/main#configs)
 - For any help ask in [Telegram Group](https://t.me/linux_repo):
