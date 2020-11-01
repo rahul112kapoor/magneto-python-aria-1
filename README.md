@@ -68,10 +68,10 @@ As you know mega.nz links mirroring is on Development Stage. So there are a lot 
 ## Bot commands to be set in BotFather
 
 ```
-mirror - start mirroring
-tarmirror - upload tar (zipped) file
-unzipmirror - extract files
-clone - copy folder to drive
+mirroros - start mirroring
+tarmirroros - upload tar (zipped) file
+unzipmirroros - extract files
+cloneos - copy folder to drive
 watch - mirror YT-DL support link
 tarwatch - mirror youtube playlist link as tar
 cancel - cancel a task
