@@ -89,9 +89,9 @@ You can also change the commands. For help ask in [Telegram Group](https://t.me/
 
 # How to deploy?
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/AbirHasan2005/magneto-python-aria/tree/main)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/RAHUL112KAPOOR/magneto-python-aria-1/tree/main)
 
-- Configs [Here](https://github.com/AbirHasan2005/magneto-python-aria/tree/main#configs)
+- Configs [Here](https://github.com/RAHUL112KAPOOR/magneto-python-aria-1/tree/main#configs)
 - For any help ask in [Telegram Group](https://t.me/linux_repo):
 - <a href="https://t.me/linux_repo"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
 
